@@ -34,12 +34,6 @@ Here are some ideas to get you started:
 
 <!-- EMPTY SPACE -->
 
-
-
-
-
-
-
 </details>
 </details>
 <details open> 

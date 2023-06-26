@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 
 <!-- EMPTY SPACE -->
 
-</details>
-</details>
-<details open> 
 </p>
 <br/>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
@@ -53,16 +50,3 @@ Here are some ideas to get you started:
   </p>
 
   </p>
-
-
-
-  
-
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-
-
-
-
-</a></p>
-</details>

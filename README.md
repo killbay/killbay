@@ -1,5 +1,5 @@
 <!-- test -->
-
+## 💻 Social Media
 <p>
   <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -61,6 +61,13 @@ Here are some ideas to get you started:
 </p>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
+
+
+
+<p align="left">
+    <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
+</p>
 
 <h2>:computer: Social Media</h2>
 <p align="left">

@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 ## 📕 Projects
 |CyberSecurity Range|Technical Documentation|
 |-----------|------------|
-|Red Team|[Doc](https://github.com/killbay/Red_Team)|
-|Blue Team|[Syncfusion.DocIO.Wpf.nupkg](https://docs.google.com/document/d/1Y3jTM8IZt5Ko_xCCOoWQBgfKCeTjugJX/edit)|
-|Traffic Analysis Part 1|[Syncfusion.DocIO.AspNet.nupkg](https://docs.google.com/document/d/1FLm92Z5pkZhyXqV6wSwL9ZqT3yQhZi9w/edit)|
-|Traffic Analysis Part 2|[Syncfusion.DocIO.AspNet.Mvc4.nupkg](https://docs.google.com/document/d/1Y3jTM8IZt5Ko_xCCOoWQBgfKCeTjugJX/edit)|
-|Network & Vulnerability Scanning|[Syncfusion.DocIO.AspNet.Mvc5.nupkg](https://docs.google.com/document/d/1iIae9Kq01tyd-PU7DzULhajmCHr9bA7T/edit)|
-|SEIM|[Syncfusion.DocIO.Net.Core.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Net.Core/)|
-|Contributors|[Syncfusion.Xamarin.DocIO.nupkg](https://www.nuget.org/packages/Syncfusion.Xamarin.DocIO/)|
-|Contributors|[Syncfusion.DocIO.UWP.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.UWP/)|
+|Red Team|[Overview](https://github.com/killbay/Red_Team)|
+|Blue Team|[Overview](https://github.com/killbay/Blue_Team)|
+|Traffic Analysis Part 1|[Overview](https://github.com/killbay/Traffic_Analysis_Part_1)|
+|Traffic Analysis Part 2|[Overview](https://github.com/killbay/Traffic_Analysis_Part_2)|
+|Network & Vulnerability Scanning|[Overview](https://github.com/killbay/Traffic_Analysis_Part_2)|
+|SEIM|[Overview](https://github.com/killbay/SEIM)|
+|Contributors|[Overview](https://github.com/killbay/Contributors)|
+<!-- |Example|[Example](https://example.com)|
 
 <!-- End -->

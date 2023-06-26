@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 </details>
 <details> 
   <summary><h2>💻 Social Media</h2></summary>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anna-mendez//">
+<p align="left">
+  <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
 </p>
 </details>

@@ -4,15 +4,9 @@ test
   <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
    </a>
-  <a href="https://github.com/emiliedionisio">
+  <a href="https://github.com/killbay">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a> 
-  <a href="https://www.instagram.com/f1.4streetphotog/">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-  <a href="https://twitter.com/emtech711">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>   
 </p>
 
 <!--

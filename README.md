@@ -62,14 +62,13 @@ Here are some ideas to get you started:
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 
-</details>
-<details> 
-  <summary><h2>:computer: Social Media</h2></summary>
+<h2>:computer: Social Media</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 </p>
-</details>
+
 
 
 </a></p>

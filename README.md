@@ -1,6 +1,19 @@
 test
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linkedin,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p>
+  <a href="https://www.linkedin.com/in/emdionisio/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+   </a>
+  <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a> 
+  <a href="https://www.instagram.com/f1.4streetphotog/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href="https://twitter.com/emtech711">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>   
+</p>
 
 <!--
 **killbay/killbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

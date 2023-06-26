@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </details>
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ Technical Skills</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 

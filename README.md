@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!-- EMPTY SPACE -->
 
-## 📕 Top Projects I've Contributed To
+## 📕 Projects
 |Platform(s)|Package name|
 |-----------|------------|
 |Windows Forms|[Syncfusion.DocIO.WinForms.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.WinForms/)|

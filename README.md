@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 
 <details> 
   <summary><h2>🛠️ Technical Skills</h2></summary>
+  <p align="left">
+    <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
+</p>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 

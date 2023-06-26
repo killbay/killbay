@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 |Blue Team|[Overview](https://github.com/killbay/Blue_Team)|
 |Traffic Analysis Part 1|[Overview](https://github.com/killbay/Traffic_Analysis_Part_1)|
 |Traffic Analysis Part 2|[Overview](https://github.com/killbay/Traffic_Analysis_Part_2)|
-|Network & Vulnerability Scanning|[Overview](https://github.com/killbay/Traffic_Analysis_Part_2)|
+|Network & Vulnerability Scanning|[Overview](https://github.com/killbay/Network_-_Vulnerability_Scanning)|
 |SEIM|[Overview](https://github.com/killbay/SEIM)|
 |Contributors|[Overview](https://github.com/killbay/Contributors)|
 <!-- |Example|[Example](https://example.com)|

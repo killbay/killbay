@@ -15,7 +15,7 @@
 ## 🛠️ Technical Skills
 <p align="left">
     <a href="https://github.com/killbay">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,github,git,docker,vim,html,markdown,wordpress,visual studio" /></a>
 </p>
 
 

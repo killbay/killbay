@@ -11,6 +11,7 @@
   </a> 
 </p>
 <!-- EMPTY SPACE -->
+
 ## 🛠️ Technical Skills
 <p align="left">
     <a href="https://github.com/emiliedionisio">

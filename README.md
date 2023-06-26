@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World, My name is Francisco!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
- 
+- 🔭 I’m currently working as a Cyber Security and Network Engineer.
+
 <!-- EMPTY SPACE -->
 
 ## 💻 Social Media

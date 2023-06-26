@@ -64,28 +64,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="left">
-    <a href="https://github.com/emiliedionisio">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
-</p>
-
-<h2>:computer: Social Media</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-</p>
-
-
-</details>
-<details>
-  <summary><h2>:computer: Social Media</h2></summary>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anna-mendez//">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-</p>
-</details>
-
 
 </a></p>
 </details>

@@ -1,12 +1,15 @@
 <!-- test -->
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+ 
 <!-- EMPTY SPACE -->
+
 ## 💻 Social Media
 <p>
   <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
    </a>
 </p>
+
 <!-- EMPTY SPACE -->
 
 ## 🛠️ Technical Skills

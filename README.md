@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 |Traffic Analysis|[Syncfusion.DocIO.AspNet.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet/)|
 |Network & Vulnerability Scanning|[Syncfusion.DocIO.AspNet.Mvc4.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet.Mvc4/)|
 |SEIM|[Syncfusion.DocIO.AspNet.Mvc5.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.AspNet.Mvc5/)|
-|Contributors|[Syncfusion.DocIO.Net.Core.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Net.Core/)|
-|Xamarin|[Syncfusion.Xamarin.DocIO.nupkg](https://www.nuget.org/packages/Syncfusion.Xamarin.DocIO/)|
+|Overview|[Syncfusion.DocIO.Net.Core.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.Net.Core/)|
+|Contributors|[Syncfusion.Xamarin.DocIO.nupkg](https://www.nuget.org/packages/Syncfusion.Xamarin.DocIO/)|
 |UWP|[Syncfusion.DocIO.UWP.nupkg](https://www.nuget.org/packages/Syncfusion.DocIO.UWP/)|
 
 <!-- End -->

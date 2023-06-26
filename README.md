@@ -1,6 +1,6 @@
 <!-- test -->
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-
+<!-- EMPTY SPACE -->
 ## 💻 Social Media
 <p>
   <a href="https://www.linkedin.com/in/francisco-valencia-95a650123/">
@@ -10,6 +10,14 @@
     <img src="https://skillicons.dev/icons?i=github"/>
   </a> 
 </p>
+<!-- EMPTY SPACE -->
+## 🛠️ Technical Skills
+<p align="left">
+    <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
+</p>
+
+
 
 <!--
 **killbay/killbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,20 +60,9 @@ Here are some ideas to get you started:
   </p>
 
 
-<p align="left">
-    <a href="https://github.com/emiliedionisio">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
-</p>
 
   
-</details>
 
-<details> 
-  <summary><h2>🛠️ Technical Skills</h2></summary>
-  <p align="left">
-    <a href="https://github.com/killbay">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
-</p>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 
